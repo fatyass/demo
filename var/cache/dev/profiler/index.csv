@@ -1,0 +1,16 @@
+131917,172.19.0.1,GET,http://localhost:81/,1558899883,e3099a,200
+e3099a,172.19.0.1,GET,http://localhost:81/,1558899883,,500
+d7f85a,172.19.0.1,GET,http://localhost:81/,1558901360,fed2b9,200
+fed2b9,172.19.0.1,GET,http://localhost:81/,1558901360,,500
+575f39,172.19.0.1,GET,http://localhost:81/,1558902003,7ff0fa,200
+7ff0fa,172.19.0.1,GET,http://localhost:81/,1558902003,,500
+0deedf,172.19.0.1,GET,http://localhost:81/,1558902177,,200
+95aa4e,172.19.0.1,GET,http://localhost:81/favicon.ico,1558902178,fbc67f,200
+fbc67f,172.19.0.1,GET,http://localhost:81/favicon.ico,1558902178,,404
+bedc30,172.19.0.1,GET,http://localhost:81/job/1,1558902258,72285e,200
+72285e,172.19.0.1,GET,http://localhost:81/job/1,1558902258,,500
+52cf8c,172.19.0.1,GET,http://localhost:81/affiliate/create,1558902370,,200
+5fcf09,172.19.0.1,GET,http://localhost:81/job/create,1558902379,,200
+cd1ea5,172.19.0.1,GET,http://localhost:81/,1558902397,,200
+e8e0c5,172.19.0.1,GET,http://localhost:81/job/2,1558902413,abeac4,200
+abeac4,172.19.0.1,GET,http://localhost:81/job/2,1558902413,,500
